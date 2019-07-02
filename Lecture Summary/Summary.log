@@ -1,0 +1,247 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.6)  2 JUL 2019 13:36
+entering extended mode
+**./Summary.tex
+(Summary.tex
+LaTeX2e <2018-12-01>
+(D:\applicationShit\miktex\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\applicationShit\miktex\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\applicationShit\miktex\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(D:\applicationShit\miktex\tex/latex/tabto-ltx\tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen103
+\TabPrevPos=\dimen104
+)
+(D:\applicationShit\miktex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\applicationShit\miktex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(D:\applicationShit\miktex\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\applicationShit\miktex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\applicationShit\miktex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(D:\applicationShit\miktex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+) (Summary.aux)
+\openout1 = `Summary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(D:\applicationShit\miktex\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\applicationShit\miktex\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(D:\applicationShit\miktex\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(D:\applicationShit\miktex\tex/generic/oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\applicationShit\miktex\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+<./images/img1.jpg, id=1, 650.43pt x 344.03531pt>
+File: ./images/img1.jpg Graphic file (type jpg)
+<use ./images/img1.jpg>
+Package pdftex.def Info: ./images/img1.jpg  used on input line 11.
+(pdftex.def)             Requested size: 325.2142pt x 172.01723pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+
+ []
+
+[1
+
+{C:/Users/USER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/img
+1.jpg>]
+<./images/img2.jpg, id=11, 852.93657pt x 386.19281pt>
+File: ./images/img2.jpg Graphic file (type jpg)
+<use ./images/img2.jpg>
+Package pdftex.def Info: ./images/img2.jpg  used on input line 18.
+(pdftex.def)             Requested size: 341.16858pt x 154.47438pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+<./images/img7.png, id=12, 4145.4875pt x 3286.2775pt>
+File: ./images/img7.png Graphic file (type png)
+<use ./images/img7.png>
+Package pdftex.def Info: ./images/img7.png  used on input line 22.
+(pdftex.def)             Requested size: 331.64578pt x 262.90758pt.
+[2 <./images/img2.jpg>]
+<./images/img3.png, id=18, 391.7034pt x 272.4579pt>
+File: ./images/img3.png Graphic file (type png)
+<use ./images/img3.png>
+Package pdftex.def Info: ./images/img3.png  used on input line 24.
+(pdftex.def)             Requested size: 235.02385pt x 163.47598pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[3 <./images/img7.png>]
+<./images/img4.jpg, id=23, 454.69875pt x 289.83281pt>
+File: ./images/img4.jpg Graphic file (type jpg)
+<use ./images/img4.jpg>
+Package pdftex.def Info: ./images/img4.jpg  used on input line 28.
+(pdftex.def)             Requested size: 227.34882pt x 144.91605pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+<./images/img5.jpg, id=24, 454.69875pt x 289.83281pt>
+File: ./images/img5.jpg Graphic file (type jpg)
+<use ./images/img5.jpg>
+Package pdftex.def Info: ./images/img5.jpg  used on input line 32.
+(pdftex.def)             Requested size: 227.34882pt x 144.91605pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+[4 <./images/img3.png> <./images/img4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<./images/img6.png, id=29, 387.1263pt x 93.4692pt>
+File: ./images/img6.png Graphic file (type png)
+<use ./images/img6.png>
+Package pdftex.def Info: ./images/img6.png  used on input line 37.
+(pdftex.def)             Requested size: 270.98656pt x 65.42798pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+[5 <./images/img5.jpg> <./images/img6.png>] (Summary.aux) ) 
+Here is how much of TeX's memory you used:
+ 1184 strings out of 492945
+ 17432 string characters out of 3136429
+ 81360 words of memory out of 3000000
+ 5083 multiletter control sequences out of 15000+200000
+ 5865 words of font info for 21 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,832b,136s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/applicationShit/
+miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/applicationShit/miktex/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><D:/applicationShit/miktex/fonts/type1/p
+ublic/amsfonts/cm/cmbx9.pfb><D:/applicationShit/miktex/fonts/type1/public/amsfo
+nts/cm/cmbxti10.pfb><D:/applicationShit/miktex/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><D:/applicationShit/miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+D:/applicationShit/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/applicat
+ionShit/miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/applicationShit/mikt
+ex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/applicationShit/miktex/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb><D:/applicationShit/miktex/fonts/type1/public/a
+msfonts/cm/cmti10.pfb>
+Output written on Summary.pdf (5 pages, 829306 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
