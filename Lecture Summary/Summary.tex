@@ -33,10 +33,30 @@ You are confused by my explanation about how the machine picks apart a bunch of 
 	\centerline{\small{\textbf{Image 3.3: Your Golden Retriever's data on the graph}}}\\\\
 	\tab\tab Though keep in mind that \textbf{Linear Regression} is not the optimal function to make your data comparable to the input. Due to the properties of the linearity, the line of best fit can be terribly wrong if there is an extreme outlier.\\
 	\section{Logistic Regression}
-	"Hey before you go, is there a better way to make data comparable, like, non-linear regression?" you ask. Well, there sure is.\\\\
+	Beside linear regression, there are many more kind of regressions that can be used for many purposes. For example, the above linear regression is used in fitting. But is \textit{all} kind of regressions for fitting. "Interesting" you says to yourself. Well, there sure is.\\\\
 \centerline{\includegraphics[scale=0.7]{img6}}\\
 \centerline{\small{\textbf{ Image 4.1: Graph comparing between different regressive methods}}}\\\\ 
-\tab\tab \textbf{Logistic Regression} is just another regression, fundamentally. Instead of using linear function, its line of best fit is a logistic equation, like this $$\frac{L}{1 + e^{-k(x-x_0)}}$$
+\tab\tab \textbf{Logistic Regression} is just another regression, fundamentally. Though also used in fitting, this kind of regression is used for \textbf{classification}, as it uses a sigmoid equation, like this $$\frac{L}{1 + e^{-k(x-x_0)}}$$
 \tab or more simply $$\frac{1}{1 + e^{-s}}$$\\
-\tab\tab The advantage of logistic regression is that it is \textbf{much more \textit{flexible}} than linear regression, as displayed in the above graph, delivering even better accuracy.
+\tab\tab to have a result which is a number between 0 and 1, that would allow the machine to classify accordingly. But how does it work? \\
+\tab \tab \textbf{Classification}, as it name suggests, is the method of classifying objects into different categories, like your Golden Retriever and your neighbor's German Shepherd is a \textit{dog}, and the Russian Blue I have at home is a \textit{cat}. But how can a machine do it, with no whatsoever the elaborate senses of humans?\\
+\tab\tab Easily and logically, \textbf{classification} works on the basis of probability. In order to understand more what in the world I am talking about, let see how \textbf{classification} works in the AI unified framework. \\
+\centerline{\includegraphics[scale=0.5]{img8}}\\
+\centerline{\small{\textbf{ Image 4.2: Diagram of how logistic regression works in AI unified framework}}}\\\\
+\tab\tab Example: A machine trying to "know" what is in the picture: Human or Animal. After some "magic", we have a set of data, and after going through another transforming function, and through sigmoid function, we have a number between 0 and 1. Using that result and comparing it with 0.5, the machine can classify the object in the picture to be either in the Human class or the Animal Class.
+\section{Softmax Regression}
+Softmax Regression (you know it) is another regression, in itself, and is also used in \textbf{classification} like Logistic Regression. Softmax Regression, in some ways, is the generalization including Logistic Regression. It uses the Softmax function to transform a vector Zx into a \textbf{probability vector} and uses that vector to classify. The following examples explain it.\\
+\centerline{\includegraphics[scale=0.09]{img9}}
+\centerline{\small{\textbf{ Image 5.1: Examples of how softmax function works}}}\\\\
+\tab\tab Supposed the Human-Animal classification machine has an extra class, "Non-living things". Doing the same thing like the machine has done with Logistic Regression, but with 3 classes, instead the comparing result would be in a form of probability vectors longer than 2. \\
+\tab\tab For example, Zx = [0.3, 0.1, 0.6]. Comparing it with the one-hot data from the 3 class, the closest number to 1 would be 0.6, which classifies the above Zx to a "Non-living things" Class. The trick here is having to convert the coordinate vectors here into probability vectors in order to compare it with the class, using Softmax function.
+\section{Multi-layer Perceptron}
+Softmax Regression is linear classification. That means its data set has to be \textit{linearly separable} (each group has to be linearly separated) Why is that a problem? Take a look at this graph below.\\
+\centerline{\includegraphics[scale=0.5]{img10}}\\
+\centerline{\small{\textbf{ Image 5.1: Graph that shows the problem with linear classfication}}}\\\\
+\tab\tab You cannot draw a straight line anyhow to properly separate these groups. And in order to draw an acceptable line to separate these, you have to find a way to \textbf{non-linearize} the boundary lines. How can you do that? That is where \textbf{Multi-layer Perceptron} comes into handy.\\
+\centerline{\includegraphics[scale=0.15]{img11}}\\
+\centerline{\small{\textbf{ Image 5.2: Diagram explaining Multi-layer Perceptron}}}\\\\
+\tab \tab Basically, the Zx, after the magic transforming from the Zg, goes through another transformation by multiplying some more $W$, and each time it changes, it is considered to have gone through a \textbf{layer}. The number of layers are decided depending on the context and requirements of the program, but the results has a comparatively greater accuracy.  
+
 \end{document}
